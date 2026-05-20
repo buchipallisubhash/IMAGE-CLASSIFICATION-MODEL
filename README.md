@@ -38,6 +38,8 @@ This project provides practical knowledge about Deep Learning, Image Processing,
 
 Overall, the Image Classification Model was successfully implemented using TensorFlow and CNN architecture. The model achieved high accuracy on the MNIST dataset and demonstrated the real-world application of Deep Learning techniques in image recognition systems.
 
+# Output
+
 <img width="1553" height="481" alt="Image" src="https://github.com/user-attachments/assets/4b7ce3b7-d7d7-403d-9c25-dede03144ff7" />
 
 <img width="894" height="673" alt="Image" src="https://github.com/user-attachments/assets/c72e2cab-1110-4390-b67b-a85f38cc4f97" />
